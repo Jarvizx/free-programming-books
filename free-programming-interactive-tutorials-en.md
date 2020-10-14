@@ -1,111 +1,249 @@
-###Bash
+### Index
+
+* [Ada](#ada)
+* [Bash](#bash)
+* [C](#c)
+* [C#](#c-sharp)
+* [C++](#c-1)
+* [Clojure](#clojure)
+* [Cloud Computing](#cloud-computing)
+* [CoffeeScript](#coffeescript)
+* [Erlang](#erlang)
+* [Git](#git)
+* [GLSL](#glsl)
+* [Go](#go)
+* [Haskell](#haskell)
+* [HTML / CSS](#html--css)
+* [Java](#java)
+* [Javascript](#javascript)
+  * [Angular.js](#angularjs)
+* [Language Agnostic](#language-agnostic)
+  * [Operating Systems](#operating-systems)
+* [Lisp](#lisp)
+* [MATLAB](#matlab)
+* [Node](#node)
+* [NoSQL](#nosql)
+* [Objective-C](#objective-c)
+* [Ocaml](#ocaml)
+* [PHP](#php)
+* [Python](#python)
+* [Ruby](#ruby)
+* [Rust](#rust)
+* [Scala](#scala)
+* [SQL](#sql)
+* [Vim](#vim)
+
+
+### Ada
+
+* [Introduction to Ada](https://learn.adacore.com/courses/intro-to-ada/index.html)
+
+
+### Bash
+
+* [Help messages will explain everything](https://explainshell.com)
 * [Learn Shell Programming](http://www.learnshell.org)
 
 
-###C
-* [Learn C](http://www.learn-c.org/)
+### C
+
+* [Learn C](http://www.learn-c.org)
 
 
-###C#
-* [Learn C#](http://www.learncs.org/)
+### C Sharp
+
+* [Codeasy](https://codeasy.net/course/csharp_elementary)
+* [Learn C#](http://www.learncs.org)
 
 
-###Clojure
-* [Clojure Koans](http://clojurekoans.com/)
-* [ClojureScript Koans](http://clojurescriptkoans.com/)
-* [Try Clojure](http://tryclj.com/)
+### C++
+
+* [CppKoans](https://github.com/torbjoernk/CppKoans)
 
 
-###CoffeeScript
+### Clojure
+
+* [4Clojure - Koans](http://www.4clojure.com)
+* [Clojure Koans](http://clojurekoans.com)
+* [ClojureScript Koans](http://clojurescriptkoans.com)
+* [Try Clojure](http://www.tryclj.com)
+
+
+### Cloud Computing 
+
+* [AWS API Gateway](https://run.qwiklabs.com/focuses/269?catalog_rank=%7B%22rank%22%3A3%2C%22num_filters%22%3A1%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=3605949) - *registration required*
+* [AWS Identity and Access Management (IAM)](https://run.qwiklabs.com/focuses/7782?catalog_rank=%7B%22rank%22%3A6%2C%22num_filters%22%3A1%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=3605942) - *registration required*
+* [AWS Lambda](https://run.qwiklabs.com/focuses/6431?catalog_rank=%7B%22rank%22%3A2%2C%22num_filters%22%3A1%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=3605949) - *registration required*
+* [AWS Simple Storage Service (S3)](https://run.qwiklabs.com/focuses/7860?catalog_rank=%7B%22rank%22%3A3%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=3597563) - *registration required*
+* [Google Cloud Platform](https://cloud.google.com/training/free-labs/)
+
+
+### CoffeeScript
+
+* [Coffeescript Style Guide](https://github.com/polarmobile/coffeescript-style-guide/blob/master/README.md)
 * [Smooth CoffeeScript, Interactive Edition](http://autotelicum.github.io/Smooth-CoffeeScript/interactive/interactive-coffeescript.html)
 
 
-###Erlang
-* [Try Erlang](http://www.tryerlang.org/)
+### Erlang
+
+* [Try Erlang](http://www.tryerlang.org)
 
 
-###F#
-* [Try F#](http://www.tryfsharp.org/)
+### Git
 
-
-###Git
 * [Githug](https://github.com/Gazler/githug) (Tutorial in shell)
 * [Learn Git Branching](http://pcottle.github.io/learnGitBranching/)
+* [Learn Git with Bitbucket Cloud](https://www.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud)
 * [Try Git](http://try.github.io)
 
 
-###Go
-* [The Go Tutorial](http://golang.org/doc/go_tutorial.html)
+### GLSL
+
+* [The Book of Shaders](https://thebookofshaders.com)
 
 
-###Haskell
-* [Try Haskell!](http://tryhaskell.org/)
+### Go
+
+* [Go Koans](https://github.com/cdarwin/go-koans)
+* [The Go Tutorial](http://tour.golang.org)
 
 
-###Java
-* [Learn Java](http://www.learnjavaonline.org/)
+### Haskell
+
+* [Try Haskell!](http://tryhaskell.org)
 
 
-###JavaScript
-* [Learning Advanced JavaScript](http://ejohn.org/apps/learn/)
-* [Learn JavaScript](http://www.learn-js.org/)
+### HTML / CSS
+
+* [CSS Diner](http://flukeout.github.io)
+* [Flexbox Defense](http://flexboxdefense.com)
+* [Flexbox Froggy](http://flexboxfroggy.com)
+* [Grid Garden](https://cssgridgarden.com)
+* [Learn by doing beginner projects](https://dash.generalassemb.ly)
+* [Learn HTML & CSS interactively](https://www.codecademy.com/learn/web)
+* [Prototyping a professional website](https://www.codecademy.com/learn/make-a-website)
+
+
+### Java
+
+* [CodingBat code practice](http://codingbat.com/java)
+* [Java at Codecademy](https://www.codecademy.com/courses/learn-java)
+* [Learn Java](http://www.learnjavaonline.org)
+* [Learneroo Java tutorial](https://www.learneroo.com/modules/11)
+
+
+### JavaScript
+
+* [ABC of JavaScript : An Interactive JavaScript Tutorial](http://www.openjs.com/tutorials/basic_tutorial/)
+* [Codecademy jquery track](https://www.codecademy.com/learn/jquery)
+* [ES6 Interactive Guide](http://stack.formidable.com/es6-interactive-guide/#/)
+* [Functional Programming in Javascript](https://github.com/ReactiveX/learnrx)
+* [Javascript interactive tutorial on CodeCademy](https://www.codecademy.com/learn/javascript)
+* [Javascript interactive tutorial on CoderMania](http://www.codermania.com/javascript/lesson/1a/hello-world)
+* [Javascripting](https://github.com/sethvincent/javascripting)
+* [Learn JavaScript](http://www.learn-js.org)
 * [Learn knockout.js](http://learn.knockoutjs.com)
-* [Try jQuery](http://try.jquery.com/)
+* [Learning Advanced JavaScript](http://ejohn.org/apps/learn/)
+* [Try jQuery](http://try.jquery.com)
 
 
-###Lisp
+#### Angular.js
+
+* [Angular Basics](http://www.angularjsbook.com)
+* [AngularJS - Step by Logical Step](http://nicholasjohnson.com/angular-book/)
+* [egghead.io: Learn AngularJS with Tutorial Videos & Training](https://egghead.io)
+* [Learn AngularJS with free interactive lessons](http://www.learn-angular.org)
+
+
+### Language Agnostic
+
+* [CodeCombat](http://codecombat.com) - Python, JavaScript, CoffeeScript, Clojure, Lua, Io
+* [Codility](https://codility.com/programmers/)
+* [Python Tutor](http://pythontutor.com) - Python, Java, JavaScript, TypeScript, Ruby, C, C++
+* [The Fullstack Tutorial for GraphQL](https://www.howtographql.com)
+
+
+#### Operating systems
+
+* [Learning operating system development using Linux kernel and Raspberry Pi](https://github.com/s-matyukevich/raspberry-pi-os) - Sergey Matyukevich (:construction: *in process*)
+
+
+### Lisp
+
 * [Lisp Koans](https://github.com/google/lisp-koans)
 
 
-###MATLAB
+### MATLAB
+
 * [Interactive Tutorials for MATLAB, Simulink, Signal Processing, Controls, and Computational Mathematics](http://www.mathworks.com/tutorials)
 
 
-###Node
-* [Node School](http://nodeschool.io/)
+### Node
+
+* [Node School](http://nodeschool.io)
 
 
-###NoSQL
+### NoSQL
+
 * [MongoDB Koans](https://github.com/chicagoruby/MongoDB_Koans)
-* [Try Redis](http://try.redis.io/)
+* [Try Redis](http://try.redis.io)
 
 
-###Objective-C
+### Objective-C
+
 * [Try Objective-C](http://tryobjectivec.codeschool.com)
 
 
-###Ocaml
-* [Try Ocaml](http://try.ocamlpro.com/)
+### Ocaml
+
+* [Try Ocaml](http://try.ocamlpro.com)
 
 
-###Perl
-* [Perltuts.com](http://perltuts.com)
+### PHP
+
+* [CodeCademy PHP](https://www.codecademy.com/learn/php)
+* [Learn PHP](http://www.learn-php.org)
 
 
-###PHP
-* [Learn PHP](http://www.learn-php.org/)
+### Python
 
-
-###Python
+* [Codecademy Python course](https://www.codecademy.com/learn/python)
 * [How to Think Like a Computer Scientist: Learning with Python, Interactive Edition](http://interactivepython.org/courselib/static/thinkcspy/index.html)
-* [Learn Python](http://www.learnpython.org/)
+* [Learn Python](http://www.learnpython.org)
+* [Learn Python Step by Step](http://www.techbeamers.com/python-tutorial-step-by-step)
 * [Python Koans](https://github.com/gregmalcolm/python_koans)
 
 
-###R
-* [Try R](http://tryr.codeschool.com)
+### Ruby
+
+* [CodeCademy Ruby](https://www.codecademy.com/learn/ruby)
+* [Ruby Koans](http://www.rubykoans.com)
+* [The Odin Project](http://www.theodinproject.com)
+* [Try Ruby](http://tryruby.org)
 
 
-###Ruby
-* [CodeCademy Ruby](http://www.codecademy.com/tracks/ruby)
-* [Ruby Koans](http://www.rubykoans.com/)
-* [RubyMonk - Interactive Ruby tutorials](http://rubymonk.com)
-* [Try Ruby](http://tryruby.org/)
+### Rust
+
+* [Rustlings](https://github.com/rust-lang/rustlings)
 
 
-###Scala
-* [Scala Tour](http://www.scala-tour.com/)
+### Scala
+
+* [A Tour of Scala - an interactive scala tutorial](https://scalatutorials.com/tour/)
+* [Scala Exercises](https://www.scala-exercises.org)
 
 
-###Vim
+### Selenium
+
+* [Selenium Tutorial - Web Automation](http://www.techbeamers.com/selenium-webdriver-tutorial)
+
+
+### SQL
+
+* [SQL at Codecademy](https://www.codecademy.com/courses/learn-sql)
+* [SQLBolt](http://sqlbolt.com)
+
+
+### Vim
+
 * [Interactive Vim Tutorial](http://www.openvim.com/tutorial.html)

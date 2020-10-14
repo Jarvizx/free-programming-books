@@ -1,42 +1,38 @@
-###Index
-* [Ajaxa](#ajax)
-* [CSS](#css)
-* [HTML](#hmtl)
-* [Java](#java)
-* [JavaScript](#javascript)
+### Index
+
+* [Ajax](#ajax)
+* [HTML](#html)
 * [MySQL](#mysql)
 * [PHP](#php)
-* [XHTML](#xhtml)
+  * [Symfony](#symfony)
+* [Scratch](#scratch)
 
 
-###Ajax
+### Ajax
+
 * [Ajax](http://etutoriale.ro/articles/1483/1/Tutorial-Ajax/)
 
 
-###CSS
-* [CSS](http://www.tutorialeweb.net/css/)
+### HTML
+
+* [HTML](http://tutorialehtml.com/ro/introducere-in-html/)
 
 
-###HMTL
-* [HTML](http://tutorialehtml.com/htmlt)
+### MySQL
+
+* [MySQL](http://profs.info.uaic.ro/~busaco/teach/courses/net/docs/mysql-ro.pdf) (PDF)
 
 
-###Java
-* [Curs practic de Java](http://web.info.uvt.ro/~iordan/PIII/Cristian_Frasinaru-Curs_practic_de_Java.pdf) - Cristian Frasinaru [PDF]
+### PHP
 
-
-###JavaScript
-* [JavaScript](http://www.tutorialeweb.net/javascript/)
-
-
-###MySQL
-* [MySQL](http://profs.info.uaic.ro/~busaco/teach/courses/net/docs/mysql-ro.pdf)
-
-
-###PHP
-* [PHP](http://www.tutorialeweb.net/php/)
 * [PHP](http://php.punctsivirgula.ro)
 
 
-###XHTML
-* [XHTML](http://www.tutorialeweb.net/xhtml/)
+#### Symfony
+
+* [Symfony 5: Curs rapid](https://symfony.com/doc/5.0/the-fast-track/ro/index.html)
+
+
+### Scratch
+
+* [Informatica Creativa](http://scratched.gse.harvard.edu/resources/informatica-creativa-0)
